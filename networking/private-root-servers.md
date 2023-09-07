@@ -93,3 +93,8 @@ zerotier-cli listpeers
 ```
 
 You should see the roots you’ve created listed as `MOON` instead of `LEAF`. They will now be used as alternative root servers.
+
+
+## Video on creating Private Root Servers
+
+[Private ZeroTier Network on the Public Internet - YouTube](https://www.youtube.com/watch?v=xp2ujXe1SOU) - Duane Dunston
