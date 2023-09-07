@@ -105,3 +105,6 @@ sudo bash -c iptables-save > /etc/iptables/rules.v4
 * Turn off wifi on your phone
 * Join it to the zerotier network, authorize it
 * Try to access something on the physical LAN
+
+## Video on Creating a Hub and Spoke with ZeroTier
+[ZeroTier Hub and Spoke](https://www.youtube.com/watch?v=Fb65bU3oyEo)
